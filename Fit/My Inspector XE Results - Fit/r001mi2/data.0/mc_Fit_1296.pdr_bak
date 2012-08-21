@@ -1,0 +1,3913 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>7723993435</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4664</threadid>
+			<stackstamp>7724048965</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39960</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>1011</type>
+	<message>
+		<timestamp>48701465282</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4664</threadid>
+			<stackstamp>48701603485</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1d120</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1bd53</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x0a23ed50</mess_addr>
+		<defined>
+			<thrname></thrname>
+			<size>4</size>
+			<threadid>4664</threadid>
+			<stackstamp>47407483515</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1cbba</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1bd53</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="3">
+	<type>1011</type>
+	<message>
+		<timestamp>50065083653</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4664</threadid>
+			<stackstamp>50065169078</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x21da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1befd</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x0a240c78</mess_addr>
+		<defined>
+			<thrname></thrname>
+			<size>4</size>
+			<threadid>4664</threadid>
+			<stackstamp>48907653428</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x247f9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x217c8</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1befd</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="4">
+	<type>1011</type>
+	<message>
+		<timestamp>50108545028</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4664</threadid>
+			<stackstamp>50108630363</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x21eee</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1befd</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x09181b20</mess_addr>
+		<defined>
+			<thrname></thrname>
+			<size>4</size>
+			<threadid>4664</threadid>
+			<stackstamp>48883071205</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x247f9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x217b2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1befd</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6595</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="5">
+	<type>233</type>
+	<message>
+		<timestamp>58764086132</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8204</threadid>
+			<stackstamp>58764115450</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f8e0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="6">
+	<type>233</type>
+	<message>
+		<timestamp>59210334655</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8432</threadid>
+			<stackstamp>59210363492</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f8e0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="7">
+	<type>233</type>
+	<message>
+		<timestamp>59396351935</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7368</threadid>
+			<stackstamp>59396380885</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f8e0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="8">
+	<type>233</type>
+	<message>
+		<timestamp>59401292640</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2256</threadid>
+			<stackstamp>59401322303</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f8e0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="9">
+	<type>1011</type>
+	<message>
+		<timestamp>75254440838</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2256</threadid>
+			<stackstamp>75254520120</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2eafd</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2ef23</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2e839</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2e116</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f9c1</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f95f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x0a2449d8</mess_addr>
+		<defined>
+			<thrname></thrname>
+			<size>68</size>
+			<threadid>4664</threadid>
+			<stackstamp>59399414805</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d796</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2e5ad</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2a8a5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6662</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="10">
+	<type>231</type>
+	<message>
+		<timestamp>75809539028</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2256</threadid>
+			<stackstamp>75809570055</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="11">
+	<type>231</type>
+	<message>
+		<timestamp>76142933545</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>7368</threadid>
+			<stackstamp>76142962367</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="12">
+	<type>231</type>
+	<message>
+		<timestamp>79363886237</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8204</threadid>
+			<stackstamp>79363930682</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="13">
+	<type>231</type>
+	<message>
+		<timestamp>79567427395</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>8432</threadid>
+			<stackstamp>79567457912</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="14">
+	<type>1011</type>
+	<message>
+		<timestamp>80635537065</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>4664</threadid>
+			<stackstamp>80635646085</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2b5e3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x666f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+		<mess_addr>0x0918daf0</mess_addr>
+		<defined>
+			<thrname></thrname>
+			<size>4</size>
+			<threadid>4664</threadid>
+			<stackstamp>80338299833</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2ad4a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x666f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="15">
+	<type>233</type>
+	<message>
+		<timestamp>91524946163</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5696</threadid>
+			<stackstamp>91524983153</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0xb6a34</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="16">
+	<type>231</type>
+	<message>
+		<timestamp>91569113588</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>5696</threadid>
+			<stackstamp>91569143055</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="17">
+	<type>1031</type>
+	<message>
+	<timestamp>91677353335</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>58488336750</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1c76</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2a843</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6662</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="18">
+	<type>1031</type>
+	<message>
+	<timestamp>91679231035</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>58559824067</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1c76</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2a843</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6662</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="19">
+	<type>1031</type>
+	<message>
+	<timestamp>91680839260</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>58560929950</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1c76</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2a843</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6662</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="20">
+	<type>1031</type>
+	<message>
+	<timestamp>91682452570</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>58561975150</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1c76</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2a843</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x6662</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f604</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="21">
+	<type>1022</type>
+	<message>
+	<timestamp>91685584637</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>32565858857</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x163d4</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x16889</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9898</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a52</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="22">
+	<type>1022</type>
+	<message>
+	<timestamp>91687416505</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31164977873</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1d177</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198fc</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="23">
+	<type>1022</type>
+	<message>
+	<timestamp>91689166277</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31171259243</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1d177</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198fc</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="24">
+	<type>1022</type>
+	<message>
+	<timestamp>91690912457</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31171549785</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1d177</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198fc</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="25">
+	<type>1022</type>
+	<message>
+	<timestamp>91692733960</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31016305810</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="26">
+	<type>1022</type>
+	<message>
+	<timestamp>91694467435</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31025015927</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="27">
+	<type>1022</type>
+	<message>
+	<timestamp>91696192135</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31026447070</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="28">
+	<type>1022</type>
+	<message>
+	<timestamp>91697919422</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31026636550</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="29">
+	<type>1022</type>
+	<message>
+	<timestamp>91699657217</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31026815575</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="30">
+	<type>1022</type>
+	<message>
+	<timestamp>91701381617</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31026993490</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="31">
+	<type>1022</type>
+	<message>
+	<timestamp>91703117747</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31027166957</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="32">
+	<type>1022</type>
+	<message>
+	<timestamp>91705040815</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31027338827</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="33">
+	<type>1022</type>
+	<message>
+	<timestamp>91706796685</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31027511222</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="34">
+	<type>1022</type>
+	<message>
+	<timestamp>91708531210</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31027684187</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="35">
+	<type>1022</type>
+	<message>
+	<timestamp>91710304075</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31027857572</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="36">
+	<type>1022</type>
+	<message>
+	<timestamp>91712048410</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31028037272</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="37">
+	<type>1022</type>
+	<message>
+	<timestamp>91713786670</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31028213935</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="38">
+	<type>1022</type>
+	<message>
+	<timestamp>91715558965</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31028386802</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x21658</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1f1b7</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b56b</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x198cf</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="39">
+	<type>1022</type>
+	<message>
+	<timestamp>91717296257</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31566216362</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x26175</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b8d5</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19920</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="40">
+	<type>1022</type>
+	<message>
+	<timestamp>91719028240</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31569175360</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x26195</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b8d5</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19920</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="41">
+	<type>1022</type>
+	<message>
+	<timestamp>91720769147</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>31626973748</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x262e5</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x1b8d5</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19920</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19a3f</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x19af9</rva>
+			</loc>
+			<loc>
+			<mod>C:\PROGRA~2\Sophos\SOPHOS~1\SOPHOS~1.DLL</mod>
+			<rva>0x9b38</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3995d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d8c4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x3d787</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="42">
+	<type>1041</type>
+	<message>
+	<timestamp>91722779552</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44854895505</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49c65</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba642</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="43">
+	<type>1041</type>
+	<message>
+	<timestamp>91724506585</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44852491703</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49c65</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba61b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="44">
+	<type>1041</type>
+	<message>
+	<timestamp>91726191355</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44847709200</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49c65</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba5f5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="45">
+	<type>1041</type>
+	<message>
+	<timestamp>91727875975</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44835075713</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba5ab</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="46">
+	<type>1041</type>
+	<message>
+	<timestamp>91729660322</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44869087583</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba74c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="47">
+	<type>1041</type>
+	<message>
+	<timestamp>91731343540</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44838539640</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba5ce</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="48">
+	<type>1041</type>
+	<message>
+	<timestamp>91733024695</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44827201875</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba565</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="49">
+	<type>1041</type>
+	<message>
+	<timestamp>91734768962</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44783351865</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba4fc</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="50">
+	<type>1041</type>
+	<message>
+	<timestamp>91736450440</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44829629130</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba588</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="51">
+	<type>1041</type>
+	<message>
+	<timestamp>91738131205</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44824748753</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba542</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="52">
+	<type>1041</type>
+	<message>
+	<timestamp>91739862107</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44813138040</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x49e4d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xba51f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb8fc7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="53">
+	<type>1041</type>
+	<message>
+	<timestamp>91741540862</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45596084400</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9d0f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="54">
+	<type>1041</type>
+	<message>
+	<timestamp>91743227027</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45537260250</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9ab6</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="55">
+	<type>1041</type>
+	<message>
+	<timestamp>91744928117</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45594409988</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9ced</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="56">
+	<type>1041</type>
+	<message>
+	<timestamp>91746635357</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45556905278</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9ba8</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="57">
+	<type>1041</type>
+	<message>
+	<timestamp>91748457182</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45550147103</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9b23</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="58">
+	<type>1041</type>
+	<message>
+	<timestamp>91750150255</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45702965063</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9d8a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="59">
+	<type>1041</type>
+	<message>
+	<timestamp>91751851967</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45701069783</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9d61</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="60">
+	<type>1041</type>
+	<message>
+	<timestamp>91753536385</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45554756850</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9b71</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="61">
+	<type>1041</type>
+	<message>
+	<timestamp>91755214735</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45558660038</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9bd1</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="62">
+	<type>1041</type>
+	<message>
+	<timestamp>91756907080</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>45568856265</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4a07d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb9c3b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0xb92a7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e34aa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="63">
+	<type>1022</type>
+	<message>
+	<timestamp>91758597505</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>40875648700</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x558fa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x56383</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2fac3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x5361c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x5335d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x30bf0</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3232e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e2f0c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="64">
+	<type>1022</type>
+	<message>
+	<timestamp>91760383667</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>41256628410</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x63da3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x63ece</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x5668b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x53643</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x533b3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x30bf0</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3232e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e2f0c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="65">
+	<type>1022</type>
+	<message>
+	<timestamp>91762133725</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>44261467105</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x63f1e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x30250</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x8a06d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e326f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="66">
+	<type>1022</type>
+	<message>
+	<timestamp>91763878592</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>46256959637</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x63f1e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1dc466</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x20cbcc</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e38fa</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="67">
+	<type>1022</type>
+	<message>
+	<timestamp>91765616012</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>41262432368</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x63f1e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x5668b</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x53643</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x533b3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x30bf0</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3232e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e2f0c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="68">
+	<type>1040</type>
+	<message>
+	<timestamp>91767369430</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>46538943893</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1a4ee3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e391a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="69">
+	<type>1040</type>
+	<message>
+	<timestamp>91769049932</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>46541840790</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x1a4ef0</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e391a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="70">
+	<type>1022</type>
+	<message>
+	<timestamp>91770717700</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>46886109475</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1ea2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1f17</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e41ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="71">
+	<type>1022</type>
+	<message>
+	<timestamp>91772457175</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>46913064885</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1ea2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1f17</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e42ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="72">
+	<type>1022</type>
+	<message>
+	<timestamp>91774218662</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>47202861293</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1ea2</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x2d1f17</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e503a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="73">
+	<type>1022</type>
+	<message>
+	<timestamp>91779546280</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>40671108773</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b0778</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b0a5c</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e55ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="74">
+	<type>1022</type>
+	<message>
+	<timestamp>91781286602</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>40682134140</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b495f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e55ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39ed0</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="75">
+	<type>1025</type>
+	<message>
+	<timestamp>91783041992</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39435158402</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b4b24</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3ad9d4</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e5215</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="76">
+	<type>1022</type>
+	<message>
+	<timestamp>91784794547</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39657395460</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b9f8f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e562a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="77">
+	<type>1022</type>
+	<message>
+	<timestamp>91786525930</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39659945685</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b9f8f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e562a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="78">
+	<type>1022</type>
+	<message>
+	<timestamp>91788303595</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39659980418</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b9f8f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e562a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="79">
+	<type>1022</type>
+	<message>
+	<timestamp>91790043677</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39660028418</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b9f8f</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e562a</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\syswow64\kernel32.dll</mod>
+			<rva>0x13675</rva>
+			</loc>
+			<loc>
+			<mod>C:\Windows\SysWOW64\ntdll.dll</mod>
+			<rva>0x39f00</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="80">
+	<type>1022</type>
+	<message>
+	<timestamp>91791886217</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>40254393833</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb3e3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b69d9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b64cb</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e5713</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="81">
+	<type>1022</type>
+	<message>
+	<timestamp>91793669230</timestamp>
+		<defined>
+			<thrname></thrname>
+			<size>1</size>
+			<threadid>4664</threadid>
+			<stackstamp>39680486985</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb979</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3bb3e3</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b69d9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3b64cb</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x4e5650</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x3632ea</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x362da9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f5c7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe</mod>
+			<rva>0x35f4ca</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+</diags>
