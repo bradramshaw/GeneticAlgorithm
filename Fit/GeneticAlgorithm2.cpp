@@ -48,9 +48,9 @@ GeneticAlgorithm2::GeneticAlgorithm2(double** dataSet, int dataSetLength,  int n
 }
 
 GeneticAlgorithm2::~GeneticAlgorithm2(void){
-	delete _doubleDistribution;
+//	delete _doubleDistribution;
 	//delete _integerDistribution;
-	delete _randomNumberGenerator;
+//	delete _randomNumberGenerator;
 	delete [] _populationParametersNew;
 	delete [] _populationParametersOld;
 }
@@ -58,9 +58,9 @@ GeneticAlgorithm2::~GeneticAlgorithm2(void){
 void GeneticAlgorithm2::initializeRandomNumberGenerators(){
 	SYSTEMTIME t;
 	GetLocalTime(&t);
-	_randomNumberGenerator = new boost::random::mt19937(t.wMilliseconds);
+	//_randomNumberGenerator = new boost::random::mt19937(t.wMilliseconds);
 	//_randomNumberGenerator = new boost::random::mt19937(0);
-	_doubleDistribution = new boost::random::uniform_int_distribution<>(0, RAND_MAX);
+//	_doubleDistribution = new boost::random::uniform_int_distribution<>(0, RAND_MAX);
 	unsigned int max = _nPopulation - 1;
 	// _integerDistribution = new boost::random::uniform_int_distribution<>(0,max);
 
@@ -189,7 +189,8 @@ void GeneticAlgorithm2::resetParameters(int nPopulation, double scaleFactor, dou
 }
 
 double GeneticAlgorithm2::randomDouble(double min, double max){				
-	double randNum = min + (max - min)*( (double) (*_doubleDistribution)(*_randomNumberGenerator)/((double)RAND_MAX));
+	double randNum;
+	 vdRngUniform(VSL_RNG_METHOD_UNIFORM_STD, stream, 1, &randNum, min, max);
 	return randNum;
 }
 

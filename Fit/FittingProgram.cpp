@@ -12,7 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	double scaleFactor, crossingProbability; // how far the algorithm "looks" when mutating, and chance of mutation
 	int nGenerations;  // number of generations, which is basically number of iterations
 	try{
-		DataExtractor extractor("C:/Users/root/Dropbox/Thesis/C++ data analysis/fullData.dat");  // get the data, which is field/amplitude/angle number. maybe bad format? should be consistent with mathematica maybe.
+		DataExtractor extractor("E:/Users/Brad/Dropbox/Thesis/C++ data analysis/fullData.dat");  // get the data, which is field/amplitude/angle number. maybe bad format? should be consistent with mathematica maybe.
 		double ** data  = extractor.getDataArray(); //puts data in 2x2 array of doubles.
 		int nLines = extractor.getNumberOfLines(); // number of lines in the data set
 		cout<<"Scale Factor: ";     

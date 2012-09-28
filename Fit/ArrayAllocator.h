@@ -1,5 +1,5 @@
 #pragma once
-#include "Parameters.h"
+
 namespace ArrayAllocator
 {
 	template<typename T>  T**  AllocateDynamicArray(int nRows, int nCols) //allocates an array

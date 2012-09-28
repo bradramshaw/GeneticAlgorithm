@@ -1,37 +1,22 @@
-﻿Build started 8/22/2012 11:02:45 AM.
-     1>Project "C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Fit\Fit.vcxproj" on node 2 (build target(s)).
+﻿Build started 9/27/2012 11:49:58 PM.
+     1>Project "E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Fit\Fit.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Touching "Debug\Fit.unsuccessfulbuild".
+         Creating "Debug\Fit.unsuccessfulbuild" because "AlwaysCreate" was specified.
        MessageBuildingWithCompiler:
          Building with Intel(R) C++ Compiler XE 12.1
        ClCompile:
          ***** ClCompile (Win32 - Intel C++)
-         C:\Program Files (x86)\Intel\Composer XE 2011 SP1\bin\ia32\icl.exe /c /Qvc10 /Qlocation,link,"$(VCInstallDir)\bin" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\ipp\include" /Zi /nologo /W3 /O3 /Ot /Oy /Qftz /Qopt-matmul /Qparallel /Quse-intel-optimized-headers /D _IPP_PARALLEL_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHsc /MTd /GS /arch:SSE3 /fp:fast=2 /QaxSSE4.1 /QxHost /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Fit.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP stdafx.cpp /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include\fftw" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include\ia32" /Qansi-alias- 
-     1>icl : warning #10148: option '/Qftz' not supported
-     1>icl : warning #10121: overriding '/archSSE3' with '/QxHost'
-         stdafx.cpp
-         C:\Program Files (x86)\Intel\Composer XE 2011 SP1\bin\ia32\icl.exe /c /Qvc10 /Qlocation,link,"$(VCInstallDir)\bin" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\ipp\include" /Zi /nologo /W3 /O3 /Ot /Oy /Qftz /Qopt-matmul /Qparallel /Quse-intel-optimized-headers /D _IPP_PARALLEL_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHsc /MTd /GS /arch:SSE3 /fp:fast=2 /QaxSSE4.1 /QxHost /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Fit.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP FittingProgram.cpp DataExtractor.cpp GeneticAlgorithm2.cpp /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include\fftw" /I"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\include\ia32" /Qansi-alias- 
+         All outputs are up-to-date.
+         E:\Program Files\Intel\Composer XE 2011 SP1\bin\ia32\icl.exe /c /Qvc10 /Qlocation,link,"$(VCInstallDir)\bin" /I"E:\Program Files\Intel\Composer XE 2011 SP1\ipp\include" /Zi /nologo /W3 /O3 /Ot /Oy /Qftz /Qopt-matmul /Qparallel /Quse-intel-optimized-headers /D _IPP_PARALLEL_STATIC /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHsc /MTd /GS /arch:SSE3 /fp:fast=2 /QaxSSE4.1 /QxHost /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Fit.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP FittingProgram.cpp /I"E:\Program Files\Intel\Composer XE 2011 SP1\mkl\include" /I"E:\Program Files\Intel\Composer XE 2011 SP1\mkl\include\fftw" /I"E:\Program Files\Intel\Composer XE 2011 SP1\mkl\include\ia32" /Qansi-alias- 
      1>icl : warning #10148: option '/Qftz' not supported
      1>icl : warning #10121: overriding '/archSSE3' with '/QxHost'
          FittingProgram.cpp
-         DataExtractor.cpp
-         GeneticAlgorithm2.cpp
        ResourceCompile:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /fo"Debug\Fit.res" Fit.rc 
-         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7600.16385
-         
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         
+         All outputs are up-to-date.
        ManifestResourceCompile:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /fo"Debug\Fit.exe.embed.manifest.res" Debug\Fit_manifest.rc 
-         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7600.16385
-         
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         
+         All outputs are up-to-date.
        Link:
-         C:\Program Files (x86)\Intel\Composer XE 2011 SP1\bin\ia32\xilink.exe /OUT:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\lib\ia32" /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\compiler\lib\ia32" /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\ipp\lib\ia32" mkl_solver.lib mkl_intel_c.lib mkl_intel_thread.lib mkl_core.lib libiomp5md.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Fit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.lib" /MACHINE:X86 Debug\Fit.res
+         E:\Program Files\Intel\Composer XE 2011 SP1\bin\ia32\xilink.exe /OUT:"E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Debug\Fit.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Program Files\Intel\Composer XE 2011 SP1\mkl\lib\ia32" /LIBPATH:"E:\Program Files\Intel\Composer XE 2011 SP1\compiler\lib\ia32" /LIBPATH:"E:\Program Files\Intel\Composer XE 2011 SP1\ipp\lib\ia32" mkl_solver.lib mkl_intel_c.lib mkl_intel_thread.lib mkl_core.lib libiomp5md.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Fit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Debug\Fit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Debug\Fit.lib" /MACHINE:X86 Debug\Fit.res
          Debug\Fit.exe.embed.manifest.res
          Debug\FittingProgram.obj
          Debug\DataExtractor.obj
@@ -39,28 +24,16 @@
          Debug\stdafx.obj
          xilink: executing 'link'
        Manifest:
-         Deleting file "Debug\Fit.exe.embed.manifest".
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Fit.exe.embed.manifest" /manifest Debug\Fit.exe.intermediate.manifest
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /fo"Debug\Fit.exe.embed.manifest.res" Debug\Fit_manifest.rc 
-         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7600.16385
-         
-         Copyright (C) Microsoft Corporation.  All rights reserved.
-         
-         
+         E:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Fit.exe.embed.manifest" /manifest Debug\Fit.exe.intermediate.manifest
+         All outputs are up-to-date.
        LinkEmbedManifest:
-         C:\Program Files (x86)\Intel\Composer XE 2011 SP1\bin\ia32\xilink.exe /OUT:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\mkl\lib\ia32" /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\compiler\lib\ia32" /LIBPATH:"C:\Program Files (x86)\Intel\Composer XE 2011 SP1\ipp\lib\ia32" mkl_solver.lib mkl_intel_c.lib mkl_intel_thread.lib mkl_core.lib libiomp5md.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Fit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.lib" /MACHINE:X86 Debug\Fit.res
-         Debug\Fit.exe.embed.manifest.res
-         Debug\FittingProgram.obj
-         Debug\DataExtractor.obj
-         Debug\GeneticAlgorithm2.obj
-         Debug\stdafx.obj
-         xilink: executing 'link'
-         Fit.vcxproj -> C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Debug\Fit.exe
+         All outputs are up-to-date.
+         Fit.vcxproj -> E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Debug\Fit.exe
        FinalizeBuildStatus:
          Deleting file "Debug\Fit.unsuccessfulbuild".
          Touching "Debug\Fit.lastbuildstate".
-     1>Done Building Project "C:\Users\root\Documents\Visual Studio 2010\Projects\Fit\Fit\Fit.vcxproj" (build target(s)).
+     1>Done Building Project "E:\Users\Brad\Documents\GitHub\GeneticAlgorithm\Fit\Fit.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:44.63
+Time Elapsed 00:00:46.08

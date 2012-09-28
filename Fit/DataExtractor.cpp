@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+#include "stdafx.h"
 #include "DataExtractor.h"
 #include "ArrayAllocator.cpp"
 

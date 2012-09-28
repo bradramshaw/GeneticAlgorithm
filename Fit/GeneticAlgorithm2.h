@@ -15,9 +15,9 @@ public:
 private:
 
 
-	boost::random::mt19937 * _randomNumberGenerator;
-	boost::random::uniform_int_distribution<> * _doubleDistribution;
-	boost::random::uniform_int_distribution<> * _integerDistribution;
+	//boost::random::mt19937 * _randomNumberGenerator;
+//	boost::random::uniform_int_distribution<> * _doubleDistribution;
+//	boost::random::uniform_int_distribution<> * _integerDistribution;
     VSLStreamStatePtr stream;
 	int * ints1;
 	int * ints2;
